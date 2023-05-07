@@ -1,6 +1,6 @@
 import random
 
-
+# pokemon
 class Pokemon:
     def __init__(self, name, type, level, moves):
         self.name = name
